@@ -7,6 +7,7 @@ int main()
 {
     std::cout << "Hello World!\n";
     int x = 1;
+    int b = 5 + x;
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
