@@ -9,6 +9,7 @@ int main()
     int x = 1;
     int b = 5 + x;
     x = b + 2;
+    //comentario desde visual
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
