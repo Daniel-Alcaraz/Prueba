@@ -4,6 +4,7 @@
 #include <iostream>
 struct punto {
     double x, y;
+    float modulo;
 };
 
 int main()
