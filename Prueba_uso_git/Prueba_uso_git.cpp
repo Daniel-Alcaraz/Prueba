@@ -2,6 +2,9 @@
 //
 
 #include <iostream>
+struct punto {
+    double x, y;
+};
 
 int main()
 {
@@ -11,6 +14,7 @@ int main()
     int b = 5 + x;
     x = b + 2;
     //comentario desde visual
+
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
