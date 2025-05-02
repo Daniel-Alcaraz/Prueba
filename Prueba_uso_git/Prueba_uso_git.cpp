@@ -5,6 +5,7 @@
 struct punto {
     double x, y;
     float modulo;
+    char mote;
 };
 
 int main()
